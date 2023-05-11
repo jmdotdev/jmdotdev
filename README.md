@@ -56,6 +56,5 @@
 
 ###
 
-<p align="left">Hello 👋</p>
 
 ###
