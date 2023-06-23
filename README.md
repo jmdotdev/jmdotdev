@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm John Mwaniki</h1>
 <h3 align="center">A passionate Fullstack web and mobile developer from Kenya</h3>
 
-- 🔭 I’m currently working on **DELIVERIO ECOMMERCE**
+- 🔭 I’m currently working on **STACKBUG**
 
-- 🌱 I’m currently learning **ANGULAR AND TESTING**
+- 🌱 I’m currently learning **ANGULAR AND TESTING(JEST)**
 
 - 👯 I’m looking to collaborate on **ANY PROJECT**
 
