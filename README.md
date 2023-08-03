@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **STACKBUG**
 
-- 🌱 I’m currently learning **ANGULAR AND TESTING(JEST)**
+- 🌱 I’m currently learning **C# AND .NET**
 
 - 👯 I’m looking to collaborate on **ANY PROJECT**
 
-- 🤝 I’m looking for help with **ANGULAR**
+- 🤝 I’m looking for help with **C#**
 
-- 💬 Ask me about **REACTJS,EXPRESSJS,NODEJS,DJANGO,FLUTTER,MSSQL,SLQLITE,MONGODB,C-PANEL**
+- 💬 Ask me about **ANGULAR,REACTJS,EXPRESSJS,NODEJS,DJANGO,FLUTTER,MSSQL,SLQLITE,MONGODB,C-PANEL**
 
 - 📫 How to reach me **johnmwanikig2000@gmail.com**
 
