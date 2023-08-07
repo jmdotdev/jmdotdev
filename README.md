@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **C#**
 
-- 💬 Ask me about **ANGULAR,REACTJS,EXPRESSJS,NODEJS,DJANGO,FLUTTER,MSSQL,SLQLITE,MONGODB,C-PANEL**
+- 💬 Ask me about **ANGULAR,REACTJS,EXPRESSJS,NODEJS,DJANGO,FLUTTER,MSSQL,POSTGRESQL,MONGODB,C-PANEL**
 
 - 📫 How to reach me **johnmwanikig2000@gmail.com**
 
