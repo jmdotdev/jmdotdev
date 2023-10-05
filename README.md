@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Mwaniki</h1>
 <h3 align="center">A passionate Fullstack web and mobile developer from Kenya</h3>
 
-- 🔭 I’m currently working on **WPF APPLICATIONS**
+- 🔭 I’m currently working on **.NET WEB API**
 
 - 🌱 I’m currently learning **C# AND .NET**
 
