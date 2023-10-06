@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **.NET WEB API**
 
-- 🌱 I’m currently learning **C# AND .NET**
+- 🌱 I’m currently learning **C# & .NET**
 
 - 👯 I’m looking to collaborate on **ANY PROJECT**
 
