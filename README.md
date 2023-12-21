@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack web and mobile developer from Kenya</h3>
 
 - 🔭 I’m currently working on **.NET**
-
+- 
 - 🌱 I’m currently learning **WEB API**
 
 - 👯 I’m looking to collaborate on **ANY PROJECT**
