@@ -5,13 +5,7 @@
   
 - 🌱 I’m currently learning **WEB API**
 
-- 👯 I’m looking to collaborate on **ANY PROJECT**
-
-- 🤝 I’m looking for help with **C#**
-
-- 💬 Ask me about **ANGULAR,REACTJS,EXPRESSJS,NODEJS,DJANGO,FLUTTER,MSSQL,POSTGRESQL,MONGODB,C-PANEL**
-
-- 📫 How to reach me **johnmwanikig2000@gmail.com**
+- 📫 Mail me on  **johnmwanikig2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
