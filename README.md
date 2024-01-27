@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋 I'm John Mwaniki</h1>
 <h3 align="center">A software developer from Nairobi,Kenya</h3>
 
-- 🔭 I’m currently working on **.NET CORE**
-  
-- 🌱 I’m currently learning **WEB API**
-
 - 📫 Mail me on  **johnmwanikig2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
